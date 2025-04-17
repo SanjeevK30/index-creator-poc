@@ -30,9 +30,9 @@ namespace IndexCreator
 
                 // Paths to PDF files
                 string[] pdfPaths = {
-                        "CBP-9993.pdf",
-                        "OOTLAR_pdf3.pdf",
-                        "Introduction-to-the-UK-Tax-system-Lecture.pdf"
+                        "Documents/CBP-9993.pdf",
+                        "Documents/OOTLAR_pdf3.pdf",
+                        "Documents/Introduction-to-the-UK-Tax-system-Lecture.pdf"
                     };
                 // Use the search index creator
                 var indexName = "gray-store-wnllbl32dq";                
